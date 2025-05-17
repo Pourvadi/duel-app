@@ -61,7 +61,7 @@ This is a simple Laravel API project for user registration, login, managing post
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Pourvadi/duel-app.git
 cd duel-app
 composer install
 cp .env.example .env
