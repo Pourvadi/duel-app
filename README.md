@@ -62,8 +62,9 @@ This is a simple Laravel API project for user registration, login, managing post
 
 ```bash
 git clone 
-cd 
+cd duel-app
 composer install
+cp .env.example .env
 php artisan migrate
 php artisan serve
 
